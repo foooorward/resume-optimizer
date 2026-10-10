@@ -1,0 +1,10 @@
+# EdgeOne Makers 本地部署产物（含项目 ID 与可能的 API Token，不要提交）
+.edgeone/
+.env
+.env.local
+
+# 编辑器 / 系统
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
